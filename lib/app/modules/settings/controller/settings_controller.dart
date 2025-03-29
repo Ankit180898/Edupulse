@@ -1,7 +1,8 @@
+import 'package:edupulse/app/data/services/auth_service.dart';
+import 'package:edupulse/app/data/services/settings_service.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:edupulse/app/data/services/settings_service.dart';
-import 'package:edupulse/app/data/services/auth_service.dart';
+
 
 class SettingsController extends GetxController {
   final SettingsService _settingsService = Get.find<SettingsService>();
