@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brain shape -->
+  <path d="M100 25 C130 25, 150 45, 150 75 C150 85, 145 95, 135 105 C155 115, 160 135, 145 155 C135 165, 120 170, 100 170 C80 170, 65 165, 55 155 C40 135, 45 115, 65 105 C55 95, 50 85, 50 75 C50 45, 70 25, 100 25 Z" fill="#6A4C93" />
+  <!-- Frontal lobe detail -->
+  <path d="M100 35 C120 35, 135 50, 135 75 C135 85, 125 95, 110 100 C95 95, 85 85, 85 75 C85 50, 80 35, 100 35 Z" fill="#8675A9" />
+  <!-- Book under brain -->
+  <rect x="65" y="170" width="70" height="10" rx="2" fill="#1982C4" />
+  <rect x="70" y="180" width="60" height="15" rx="2" fill="#8AC926" />
+  <!-- Circuit lines -->
+  <path d="M75 75 L60 65 L55 80 L70 95" stroke="#FFCA3A" stroke-width="2" fill="none" />
+  <path d="M125 75 L140 65 L145 80 L130 95" stroke="#FFCA3A" stroke-width="2" fill="none" />
+  <path d="M100 125 L100 145" stroke="#FFCA3A" stroke-width="2" fill="none" />
+  <!-- Lightbulb -->
+  <circle cx="100" cy="60" r="8" fill="#FF595E" />
+  <path d="M97 68 L95 75 L105 75 L103 68" fill="#FF595E" />
+  <!-- Text: AI Study Assistant -->
+  <text x="100" y="150" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="white">AI Study</text>
+  <text x="100" y="162" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="white">Assistant</text>
+</svg>
